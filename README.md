@@ -139,9 +139,9 @@ This repo is an extension of [repo](https://github.com/Alvin-Zeng/Awesome-Tempor
 
 ### <span id = "wstal-2020"> 2020 </span>
 
+- <span id = "4207">[[DGAM]](#3207)</span>span> [**Weakly-Supervised Action Localization by Generative Attention Modeling**](https://arxiv.org/pdf/2003.12424v2.pdf) - Baifeng Shi et al., `CVPR2020` [[code]](https://github.com/bfshi/DGAM-Weakly-Supervised-Action-Localization)
 - <span id = "4206">[[UncertaintyBM]](#3206)</span>span> [**Background Modeling via Uncertainty Estimation
-for Weakly-supervised Action Localization**](https://arxiv.org/pdf/2006.07006.pdf) - Pilhyeon Lee et al., Arxiv2020 [[code]](https://github.com/Pilhyeon/Background-Modeling-via-Uncertainty-Estimation)
-
+for Weakly-supervised Action Localization**](https://arxiv.org/pdf/2006.07006.pdf) - Pilhyeon Lee et al., `Arxiv2020` [[code]](https://github.com/Pilhyeon/Background-Modeling-via-Uncertainty-Estimation)
 - <span id = "4205">[[RPN]](#3205)</span> [**Relational Prototypical Network for Weakly Supervised Temporal Action Localization**](https://aaai.org/Papers/AAAI/2020GB/AAAI-HuangL.1235.pdf) - Linjiang Huang et al., `AAAI 2020`.
 - <span id = "4204">[[BaSNet]](#3204)</span> [**Background Suppression Network for Weakly-supervised Temporal Action Localization**](https://arxiv.org/abs/1911.09963) - Pilhyeon Lee et al., `AAAI 2020`.
 - <span id = "4203">[[DML]](#3203)</span> [**Weakly Supervised Temporal Action Localization Using Deep Metric Learning**](https://arxiv.org/abs/2001.07793) - Ashraful Islam et al., `WACV 2020`. [[code]](<https://github.com/asrafulashiq/wsad.git>)
@@ -150,6 +150,7 @@ for Weakly-supervised Action Localization**](https://arxiv.org/pdf/2006.07006.pd
 
 ### <span id = "wstal-2019"> 2019 </span>
 
+- <span id = "4197"> [[3C-Net]](#3197)</span> [**3C-Net: Category Count and Center Loss for Weakly-Supervised Action Localization**](https://arxiv.org/pdf/1908.08216.pdf) - Sanath Narayan et al., `ICCV-2019` [[code]](https://github.com/naraysa/3c-net)
 - <span id = "4196">[[IWO-Net]](#3196)</span> [**Breaking Winner-Takes-All: Iterative-Winners-Out Networks for Weakly Supervised Temporal Action Localization**](https://ieeexplore.ieee.org/document/8737877) - Runhao Zeng et al., `TIP 2019`.
 - <span id = "4195">[[BM]](#3195)</span> [**Weakly-supervised Action Localization with Background Modeling**](http://openaccess.thecvf.com/content_ICCV_2019/papers/Nguyen_Weakly-Supervised_Action_Localization_With_Background_Modeling_ICCV_2019_paper.pdf) - Phuc Xuan Nguyen et al., `ICCV 2019`.
 - <span id = "4194">[[TSM]](#3194)</span> [**Temporal Structure Mining for Weakly Supervised Action Detection**](http://openaccess.thecvf.com/content_ICCV_2019/papers/Yu_Temporal_Structure_Mining_for_Weakly_Supervised_Action_Detection_ICCV_2019_paper.pdf) - Tan Yu et al., `ICCV 2019`.
@@ -198,7 +199,9 @@ for Weakly-supervised Action Localization**](https://arxiv.org/pdf/2006.07006.pd
 | <span id = "3204">[BaSNet](#4204)</span>       |   AAAI-2020   |     UNT     |    58.2     |    52.3     |    44.6     |    36.0     |    27.0     |    18.6     |    10.4     |
 | <span id = "3205">[RPN](#4205)</span>          |   AAAI-2020   |     I3D     |    62.3     |    57.0     |    48.2     |    37.2     |    27.9     |    16.7     |     8.1     |
 | <span id = "3203">[DML](#4203)</span>          |   AAAI-2020   |      -      |    62.3     |      -      |    46.8     |      -  |    29.6     |      -      |     9.7     |
-| <span id = "3206">[UncertaintyBM](#4206)</span> | Arxiv-2020   |   I3D     |      -      |    46.9     |    39.2     |    30.7     |    20.8     |    12.5     |
+| <span id = "4197"> [[3C-Net]](#3197)</span>    |  ICCV-2019    |     I3D     |    59.1     |    53.5     | 44.2     |    34.1     |    26.6     |    8.1     |
+| <span id = "3206">[UncertaintyBM](#4206)</span> | Arxiv-2020   |     I3D     |      -      |    46.9     |    39.2     |    30.7     |    20.8     |    12.5     |
+| <span id = "3207">[DGAM](#4207) </span>         |  CVPR-2020   |     I3D     |    60.0     |    54.2     | 46.8     |    38.2     |    28.8     |    19.8    |   11.4       |
 
 #### <span id = "wstal-activitynet13"> ActivityNet v1.3 </span>
 
@@ -227,3 +230,6 @@ for Weakly-supervised Action Localization**](https://arxiv.org/pdf/2006.07006.pd
 | [CMCS](#4191)         |   CVPR-2019   |    36.8     |     22.0     |     5.6      |    22.4     |
 | [RPN](#4205)          |   AAAI-2020   |    37.6     |     23.9     |     5.4      |    23.3     |
 | [BaSNet](#4204)       |   AAAI-2020   |    38.5     |     24.2     |     5.6      |    24.3     |
+| [3C-Net](#3197)       |   ICCV-2019   |    37.2     |     23.7     |     9.2      |    21.7     |
+| [UncertaintyBM](#4206)|  Arxiv-2020   |    40.3     |     25.1     |     5.9      |    25.4     |
+| [DGAM](#4207)         |   CVPR-2020   |    41.0     |     23.5     |     5.3      |    24.4     |
