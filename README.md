@@ -1,5 +1,6 @@
 # Awesome Temporal Action Localization: [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-A curated list of temporal action localization/detection and related area (e.g. temporal action proposal) resources.
+
+This repo is an extension of [repo](https://github.com/Alvin-Zeng/Awesome-Temporal-Action-Localization) of temporal action localization/detection and related area (e.g. temporal action proposal) resources. Compared with the original repo, this repo adds more resource and updates several papers with code. Will keep up to date. Welcome to contribute together!
 
 ## Contents
 - [Temporal Action Localization](#tal)
@@ -183,7 +184,7 @@ for Weakly-supervised Action Localization**](https://arxiv.org/pdf/2006.07006.pd
 | <span id = "3172">[UNet](#4172)</span>         |   CVPR-2017   |      -      |    44.4     |    37.7     |    28.2     |    21.1     |    13.7     |      -      |      -      |
 | <span id = "3181">[One-Shot](#4181)</span>     |   CVPR-2018   |      -      |      -      |      -      |      -      |      -      |    14.7     |      -      |      -      |
 | <span id = "3182">[STPN](#4182)</span>         |   CVPR-2018   |     UNT     |    52.0     |    44.7     |    35.5     |    25.8     |    16.9     |     9.9     |     4.3     |
-| <span id = '3182'>[STPN](#4182)</span>span>    |   CVPR-2018   |     UNT     |    52.1     |    44.2     |    34.7     |   26.1     |    17.7     |    10.1     |     4.9   |
+| <span id = '3182'>[STPN](#4182)</span>    |   CVPR-2018   |     UNT     |    52.1     |    44.2     |    34.7     |   26.1     |    17.7     |    10.1     |     4.9   |
 | <span id = "3196">[IWO-Net](#4196)</span>      |   TIP-2019    |      -      |    57.6     |    48.9     |    38.9     |    29.3     |    20.5     |      -      |      -      |
 | <span id = "3201">[WSGN](#4201)</span>         |   WACV-2020   |      -      |    55.3     |    47.6     |    38.9     |    30.0     |    21.1     |      -      |      -      |
 | <span id = "3183">[AutoLoc](#4183)</span>      |   ECCV-2018   |     UNT     |      -      |      -      |    35.8     |    29.0     |    21.2     |    13.4     |     5.8     |
@@ -197,7 +198,7 @@ for Weakly-supervised Action Localization**](https://arxiv.org/pdf/2006.07006.pd
 | <span id = "3204">[BaSNet](#4204)</span>       |   AAAI-2020   |     UNT     |    58.2     |    52.3     |    44.6     |    36.0     |    27.0     |    18.6     |    10.4     |
 | <span id = "3205">[RPN](#4205)</span>          |   AAAI-2020   |     I3D     |    62.3     |    57.0     |    48.2     |    37.2     |    27.9     |    16.7     |     8.1     |
 | <span id = "3203">[DML](#4203)</span>          |   AAAI-2020   |      -      |    62.3     |      -      |    46.8     |      -  |    29.6     |      -      |     9.7     |
-| <span id = "3206">[UncertaintyBM](#4206)</span>span> | Arxiv-2020|   I3D     |      -      |    46.9     |    39.2     |    30.7     |    20.8     |    12.5     |
+| <span id = "3206">[UncertaintyBM](#4206)</span> | Arxiv-2020   |   I3D     |      -      |    46.9     |    39.2     |    30.7     |    20.8     |    12.5     |
 
 #### <span id = "wstal-activitynet13"> ActivityNet v1.3 </span>
 
