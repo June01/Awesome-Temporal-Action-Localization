@@ -74,7 +74,7 @@ A curated list of temporal action localization/detection and related area (e.g. 
 #### <span id = "tal-result-thumos14"> THUMOS14 </span>
 
 |                     Method                      |  Conference   |   IoU@0.1   |   IoU@0.2   |   IoU@0.3   |   IoU@0.4   |   IoU@0.5   |   IoU@0.6   |   IoU@0.7   |
-| :---------------------------------------------: | :-----------: | :---------: | :---------: | :---------: | :---------: | :---------: | :---------: | :---------: |
+| :---------------------------------------------: | :-----------: | :-----------: | :---------: | :---------: | :---------: | :---------: | :---------: | :---------: | :---------: |
 | <span id = "1161">[DAPs](#2161)</span>          |   ECCV-2016   |      -      |      -      |      -      |      -      |    13.9     |      -      |      -      |
 | <span id = "1162">[SLM](#2162)</span>           |   CVPR-2016   |    39.7     |    35.7     |    30.0     |    23.2     |    15.2     |      -      |      -      |
 | <span id = "1163">[FG](#2163)</span>            |   CVPR-2016   |    48.9     |    44.0     |    36.0     |    26.4     |    17.1     |      -      |      -      |
@@ -139,12 +139,12 @@ A curated list of temporal action localization/detection and related area (e.g. 
 ### <span id = "wstal-2020"> 2020 </span>
 
 - <span id = "4206">[[UncertaintyBM]](#3206)</span>span> [**Background Modeling via Uncertainty Estimation
-for Weakly-supervised Action Localization**](https://arxiv.org/pdf/2006.07006.pdf) [[code]](https://github.com/Pilhyeon/Background-Modeling-via-Uncertainty-Estimation) - Pilhyeon Lee et al., Arxiv2020
+for Weakly-supervised Action Localization**](https://arxiv.org/pdf/2006.07006.pdf) - Pilhyeon Lee et al., Arxiv2020 [[code]](https://github.com/Pilhyeon/Background-Modeling-via-Uncertainty-Estimation)
 
 - <span id = "4205">[[RPN]](#3205)</span> [**Relational Prototypical Network for Weakly Supervised Temporal Action Localization**](https://aaai.org/Papers/AAAI/2020GB/AAAI-HuangL.1235.pdf) - Linjiang Huang et al., `AAAI 2020`.
 - <span id = "4204">[[BaSNet]](#3204)</span> [**Background Suppression Network for Weakly-supervised Temporal Action Localization**](https://arxiv.org/abs/1911.09963) - Pilhyeon Lee et al., `AAAI 2020`.
-- <span id = "4203">[[DML]](#3203)</span> [**Weakly Supervised Temporal Action Localization Using Deep Metric Learning**](https://arxiv.org/abs/2001.07793) [[code]](<https://github.com/asrafulashiq/wsad.git>) - Ashraful Islam et al., `WACV 2020`.
-- <span id = "4202">[[MCASL]](#3202)</span> [**Action Graphs: Weakly-supervised Action Localization with Graph Convolution Networks**](https://arxiv.org/abs/2002.01449) [[code]](https://github.com/menorashid/action_graphs.git) - Maheen Rashid et al., `WACV 2020`.
+- <span id = "4203">[[DML]](#3203)</span> [**Weakly Supervised Temporal Action Localization Using Deep Metric Learning**](https://arxiv.org/abs/2001.07793) - Ashraful Islam et al., `WACV 2020`. [[code]](<https://github.com/asrafulashiq/wsad.git>)
+- <span id = "4202">[[MCASL]](#3202)</span> [**Action Graphs: Weakly-supervised Action Localization with Graph Convolution Networks**](https://arxiv.org/abs/2002.01449) - Maheen Rashid et al., `WACV 2020`. [[code]](https://github.com/menorashid/action_graphs.git)
 - <span id = "4201">[[WSGN]](#3201)</span> [**Weakly Supervised Gaussian Networks for Action Detection**](https://arxiv.org/abs/1904.07774) - Basura Fernando et al., `WACV 2020`.
 
 ### <span id = "wstal-2019"> 2019 </span>
@@ -153,7 +153,7 @@ for Weakly-supervised Action Localization**](https://arxiv.org/pdf/2006.07006.pd
 - <span id = "4195">[[BM]](#3195)</span> [**Weakly-supervised Action Localization with Background Modeling**](http://openaccess.thecvf.com/content_ICCV_2019/papers/Nguyen_Weakly-Supervised_Action_Localization_With_Background_Modeling_ICCV_2019_paper.pdf) - Phuc Xuan Nguyen et al., `ICCV 2019`.
 - <span id = "4194">[[TSM]](#3194)</span> [**Temporal Structure Mining for Weakly Supervised Action Detection**](http://openaccess.thecvf.com/content_ICCV_2019/papers/Yu_Temporal_Structure_Mining_for_Weakly_Supervised_Action_Detection_ICCV_2019_paper.pdf) - Tan Yu et al., `ICCV 2019`.
 - <span id = "4193">[[CleanNet]](#3193)</span> [**Weakly Supervised Temporal Action Localization through Contrast based Evaluation Networks**](https://arxiv.org/abs/1811.07460) - Ziyi Liu et al., `ICCV 2019`.
-- <span id = "4192">[[CMCS]](#3192)</span> [**Completeness Modeling and Context Separation for Weakly Supervised Temporal Action Localization**](http://openaccess.thecvf.com/content_CVPR_2019/html/Liu_Completeness_Modeling_and_Context_Separation_for_Weakly_Supervised_Temporal_Action_CVPR_2019_paper.html)[[code]](https://github.com/Finspire13/CMCS-Temporal-Action-Localization) - Daochang Liu et al., `CVPR 2019`.
+- <span id = "4192">[[CMCS]](#3192)</span> [**Completeness Modeling and Context Separation for Weakly Supervised Temporal Action Localization**](http://openaccess.thecvf.com/content_CVPR_2019/html/Liu_Completeness_Modeling_and_Context_Separation_for_Weakly_Supervised_Temporal_Action_CVPR_2019_paper.html) - Daochang Liu et al., `CVPR 2019`. [[code]](https://github.com/Finspire13/CMCS-Temporal-Action-Localization)
 - <span id = "4191">[[STAR]](#3191)</span> [**Segregated Temporal Assembly Recurrent Networks for Weakly Supervised Multiple Action Detection**](https://arxiv.org/abs/1811.07460) - Yunlu Xu et al., `AAAI 2019`.
 
 ### <span id = "wstal-2018"> 2018 </span>
