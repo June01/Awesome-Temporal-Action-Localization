@@ -23,46 +23,46 @@ A curated list of temporal action localization/detection and related area (e.g. 
 
 ### <span id = "tal-2020"> 2020 </span>
 
-- <span id = "2204">[[DBG]](#1204)</span> [**Fast Learning of Temporal Action Proposal via Dense Boundary Generator**](https://arxiv.org/pdf/1911.04127) - Chunming Lin et al, `AAAI 2020`. [[code]](<https://github.com/Tencent/ActionDetection-DBG>)
-- <span id = "2203">[[G-TAD]](#1203)</span> [**G-TAD: Sub-Graph Localization for Temporal Action Detection**](https://arxiv.org/abs/1911.11462) - Mengmeng Xu et al, `CVPR 2020`. [[code]](<https://github.com/frostinassiky/gtad>)
-- <span id = "2202">[[PBRNet]](#1202)</span> [**Progressive Boundary Refinement Network for Temporal Action Detection**](https://aaai.org/Papers/AAAI/2020GB/AAAI-LiuQ.4870.pdf) - Qinying Liu et al, `AAAI 2020`.
-- <span id = "2201">[[AGCN]](#1201)</span> [**Graph Attention based Proposal 3D ConvNets for Action Detection**](https://www.aaai.org/Papers/AAAI/2020GB/AAAI-LiJ.1424.pdf) - Jun Li et al, `AAAI 2020`.
+- <span id = "2204">[[DBG]](#1204)</span> [**Fast Learning of Temporal Action Proposal via Dense Boundary Generator**](https://arxiv.org/pdf/1911.04127) - Chunming Lin et al., `AAAI 2020`. [[code]](<https://github.com/Tencent/ActionDetection-DBG>)
+- <span id = "2203">[[G-TAD]](#1203)</span> [**G-TAD: Sub-Graph Localization for Temporal Action Detection**](https://arxiv.org/abs/1911.11462) - Mengmeng Xu et al., `CVPR 2020`. [[code]](<https://github.com/frostinassiky/gtad>)
+- <span id = "2202">[[PBRNet]](#1202)</span> [**Progressive Boundary Refinement Network for Temporal Action Detection**](https://aaai.org/Papers/AAAI/2020GB/AAAI-LiuQ.4870.pdf) - Qinying Liu et al., `AAAI 2020`.
+- <span id = "2201">[[AGCN]](#1201)</span> [**Graph Attention based Proposal 3D ConvNets for Action Detection**](https://www.aaai.org/Papers/AAAI/2020GB/AAAI-LiJ.1424.pdf) - Jun Li et al., `AAAI 2020`.
 
 ### <span id = "tal-2019"> 2019 </span>
 
-- <span id = "2196">[[PGCN]](#1196)</span> [**Graph Convolutional Networks for Temporal Action Localization**](http://openaccess.thecvf.com/content_ICCV_2019/papers/Zeng_Graph_Convolutional_Networks_for_Temporal_Action_Localization_ICCV_2019_paper.pdf) - Runhao Zeng et al, `ICCV 2019`. [[code]](<https://github.com/Alvin-Zeng/PGCN>)
-- <span id = "2195">[[RAM]](#1195)</span> [**Graph Convolutional Networks for Temporal Action Localization**](https://ieeexplore.ieee.org/document/8933113) - Peihao Chen et al, `TMM 2019`. 
-- <span id = "2194">[[BMN]](#1194)</span> [**BMN: Boundary-Matching Network for Temporal Action Proposal Generation**](http://openaccess.thecvf.com/content_ICCV_2019/papers/Lin_BMN_Boundary-Matching_Network_for_Temporal_Action_Proposal_Generation_ICCV_2019_paper.pdf) - Tianwei Lin et al, `ICCV 2019`.
-- <span id = "2193">[[GTAN]](#1193)</span> [**Gaussian Temporal Awareness Networks for Action Localization**](https://arxiv.org/abs/1909.03877) - Fuchen Long et al, `CVPR 2019`.
-- <span id = "2192">[[DBS]](#1192)</span> [**Video Imprint Segmentation for Temporal Action Detection in Untrimmed Videos**](https://www.aaai.org/ojs/index.php/AAAI/article/view/4846) - Zhanning Gao et al, `AAAI 2019`.
-- <span id = "2191">[[C-TCN]](#1191)</span> [**Deep Concept-wise Temporal Convolutional Networks for Action Localization**](https://arxiv.org/abs/1908.09442) - Xin Li et al, `arXiv 2019`.
+- <span id = "2196">[[PGCN]](#1196)</span> [**Graph Convolutional Networks for Temporal Action Localization**](http://openaccess.thecvf.com/content_ICCV_2019/papers/Zeng_Graph_Convolutional_Networks_for_Temporal_Action_Localization_ICCV_2019_paper.pdf) - Runhao Zeng et al., `ICCV 2019`. [[code]](<https://github.com/Alvin-Zeng/PGCN>)
+- <span id = "2195">[[RAM]](#1195)</span> [**Graph Convolutional Networks for Temporal Action Localization**](https://ieeexplore.ieee.org/document/8933113) - Peihao Chen et al., `TMM 2019`. 
+- <span id = "2194">[[BMN]](#1194)</span> [**BMN: Boundary-Matching Network for Temporal Action Proposal Generation**](http://openaccess.thecvf.com/content_ICCV_2019/papers/Lin_BMN_Boundary-Matching_Network_for_Temporal_Action_Proposal_Generation_ICCV_2019_paper.pdf) - Tianwei Lin et al., `ICCV 2019`.
+- <span id = "2193">[[GTAN]](#1193)</span> [**Gaussian Temporal Awareness Networks for Action Localization**](https://arxiv.org/abs/1909.03877) - Fuchen Long et al., `CVPR 2019`.
+- <span id = "2192">[[DBS]](#1192)</span> [**Video Imprint Segmentation for Temporal Action Detection in Untrimmed Videos**](https://www.aaai.org/ojs/index.php/AAAI/article/view/4846) - Zhanning Gao et al., `AAAI 2019`.
+- <span id = "2191">[[C-TCN]](#1191)</span> [**Deep Concept-wise Temporal Convolutional Networks for Action Localization**](https://arxiv.org/abs/1908.09442) - Xin Li et al., `arXiv 2019`.
 
 ### <span id = "tal-2018"> 2018 </span>
 
-- <span id = "2185">[[TAL-Net]](#1185)</span> [**Rethinking the Faster R-CNN Architecture for Temporal Action Localization**](https://arxiv.org/abs/1804.07667) - Yuwei Chao et al, `CVPR 2018`.
-- <span id = "2184">[[BSN]](#1184)</span> [**BSN: Boundary Sensitive Network for Temporal Action Proposal Generation**](https://arxiv.org/abs/1806.02964) - Tianwei Lin et al, `ECCV 2018`. [[code]](<https://github.com/wzmsltw/BSN-boundary-sensitive-network>)
-- <span id = "2183">[[Action-Search]](#1183)</span> [**Action Search: Spotting Actions in Videos and Its Application to Temporal Action Localization**](https://arxiv.org/abs/1706.04269) - Humam Alwassel et al, `ECCV 2018`. [[code]](<http://www.humamalwassel.com/publication/action-search/>)
-- <span id = "2182">[[TPC]](#1182)</span> [**Exploring Temporal Preservation Networks for Precise Temporal Action Localization**](https://arxiv.org/abs/1708.03280) - Ke Yang et al, `AAAI 2018`.
-- <span id = "2181">[[Self-Ad]](#1181)</span> [**A Self-Adaptive Proposal Model for Temporal Action Detection based on Reinforcement Learning**](https://arxiv.org/abs/1706.07251) - Jingjia Huang et al, `AAAI 2018`.
+- <span id = "2185">[[TAL-Net]](#1185)</span> [**Rethinking the Faster R-CNN Architecture for Temporal Action Localization**](https://arxiv.org/abs/1804.07667) - Yuwei Chao et al., `CVPR 2018`.
+- <span id = "2184">[[BSN]](#1184)</span> [**BSN: Boundary Sensitive Network for Temporal Action Proposal Generation**](https://arxiv.org/abs/1806.02964) - Tianwei Lin et al., `ECCV 2018`. [[code]](<https://github.com/wzmsltw/BSN-boundary-sensitive-network>)
+- <span id = "2183">[[Action-Search]](#1183)</span> [**Action Search: Spotting Actions in Videos and Its Application to Temporal Action Localization**](https://arxiv.org/abs/1706.04269) - Humam Alwassel et al., `ECCV 2018`. [[code]](<http://www.humamalwassel.com/publication/action-search/>)
+- <span id = "2182">[[TPC]](#1182)</span> [**Exploring Temporal Preservation Networks for Precise Temporal Action Localization**](https://arxiv.org/abs/1708.03280) - Ke Yang et al., `AAAI 2018`.
+- <span id = "2181">[[Self-Ad]](#1181)</span> [**A Self-Adaptive Proposal Model for Temporal Action Detection based on Reinforcement Learning**](https://arxiv.org/abs/1706.07251) - Jingjia Huang et al., `AAAI 2018`.
 
 ### <span id = "tal-2017"> 2017 </span>
 
-- <span id = "2178">[[SSN]](#1178)</span> [**Temporal Action Detection with Structured Segment Networks**](https://arxiv.org/abs/1704.06228) - Yue Zhao et al, `ICCV 2017`. [[code]](<http://yjxiong.me/others/ssn>)
-- <span id = "2177">[[R-C3D]](#1177)</span> [**R-C3D: Region Convolutional 3D Network for Temporal Activity Detection**](https://arxiv.org/abs/1703.07814) - Huijuan Xu et al, `ICCV 2017`. [[code]](<http://ai.bu.edu/r-c3d/>)
-- <span id = "2176">[[TCN]](#1176)</span> [**Temporal Context Network for Activity Localization in Videos**](https://arxiv.org/abs/1708.02349) - Xiyang Dai et al, `ICCV 2017`.
-- <span id = "2175">[[TURN]](#1175)</span> [**TURN TAP: Temporal Unit Regression Network for Temporal Action Proposals**](https://arxiv.org/abs/1703.06189) - Jiyang Gao et al, `ICCV 2017`. [[code]](<https://github.com/jiyanggao/TURN-TAP>)
-- <span id = "2174">[[SST]](#1174)</span> [**SST: Single-Stream Temporal Action Proposals**](https://ieeexplore.ieee.org/abstract/document/8100158) - Shyamal Buch et al, `ICCV 2017`.
-- <span id = "2173">[[CDC]](#1173)</span> [**CDC: Convolutional-De-Convolutional Networks for Precise Temporal Action Localization in Untrimmed Videos**](https://arxiv.org/abs/1703.01515) - Zheng Shou et al, `CVPR 2017`. [[code]](<https://bibucket.org/columbiadvmm/cdc>)
-- <span id = "2172">[[SCC]](#1172)</span> [**SCC: Semantic Context Cascade for Efficient Action Detection**](https://ieeexplore.ieee.org/document/8099821) - Fabian Caba Heilbron et al, `CVPR 2017`.
-- <span id = "2171">[[SMS]](#1171)</span> [**Temporal Action Localization by Structured Maximal Sums**](https://arxiv.org/abs/1704.04671) - Zehuan Yuan et al, `CVPR 2017`.
+- <span id = "2178">[[SSN]](#1178)</span> [**Temporal Action Detection with Structured Segment Networks**](https://arxiv.org/abs/1704.06228) - Yue Zhao et al., `ICCV 2017`. [[code]](<http://yjxiong.me/others/ssn>)
+- <span id = "2177">[[R-C3D]](#1177)</span> [**R-C3D: Region Convolutional 3D Network for Temporal Activity Detection**](https://arxiv.org/abs/1703.07814) - Huijuan Xu et al., `ICCV 2017`. [[code]](<http://ai.bu.edu/r-c3d/>)
+- <span id = "2176">[[TCN]](#1176)</span> [**Temporal Context Network for Activity Localization in Videos**](https://arxiv.org/abs/1708.02349) - Xiyang Dai et al., `ICCV 2017`.
+- <span id = "2175">[[TURN]](#1175)</span> [**TURN TAP: Temporal Unit Regression Network for Temporal Action Proposals**](https://arxiv.org/abs/1703.06189) - Jiyang Gao et al., `ICCV 2017`. [[code]](<https://github.com/jiyanggao/TURN-TAP>)
+- <span id = "2174">[[SST]](#1174)</span> [**SST: Single-Stream Temporal Action Proposals**](https://ieeexplore.ieee.org/abstract/document/8100158) - Shyamal Buch et al., `ICCV 2017`.
+- <span id = "2173">[[CDC]](#1173)</span> [**CDC: Convolutional-De-Convolutional Networks for Precise Temporal Action Localization in Untrimmed Videos**](https://arxiv.org/abs/1703.01515) - Zheng Shou et al., `CVPR 2017`. [[code]](<https://bibucket.org/columbiadvmm/cdc>)
+- <span id = "2172">[[SCC]](#1172)</span> [**SCC: Semantic Context Cascade for Efficient Action Detection**](https://ieeexplore.ieee.org/document/8099821) - Fabian Caba Heilbron et al., `CVPR 2017`.
+- <span id = "2171">[[SMS]](#1171)</span> [**Temporal Action Localization by Structured Maximal Sums**](https://arxiv.org/abs/1704.04671) - Zehuan Yuan et al., `CVPR 2017`.
 
 ### <span id = "tal-2016"> 2016 </span>
 
-- <span id = "2165">[[S-CNN]](#1165)</span> [**Temporal Action Localization in Untrimmed Videos via Multi-stage CNNs**](https://arxiv.org/abs/1601.02129) - Zheng Shou et al, `CVPR 2016`. [[code]](<https://github.com/zhengshou/scnn/>)
-- <span id = "2164">[[PSDF]](#1164)</span> [**Temporal Action Localization with Pyramid of Score Distribution Features**](https://ieeexplore.ieee.org/abstract/document/7780706) - Jun Yuan et al, `CVPR 2016`.
-- <span id = "2163">[[FG]](#1163)</span>  [**End-to-end Learning of Action Detection from Frame Glimpses in Videos**](https://arxiv.org/abs/1511.06984) - Serena Yeung et al, `CVPR 2016`.
-- <span id = "2162">[[SLM]](#1162)</span> [**Temporal Action Detection Using a Statistical Language Model**](https://ieeexplore.ieee.org/document/7780710) - Alexander Richard et al, `CVPR 2016`.
-- <span id = "2161">[[DAPs]](#1161)</span> [**DAPs: Deep Action Proposals for Action Understanding**](https://link.springer.com/chapter/10.1007%2F978-3-319-46487-9_47) - Victor Escorcia et al, `ECCV 2016`.
+- <span id = "2165">[[S-CNN]](#1165)</span> [**Temporal Action Localization in Untrimmed Videos via Multi-stage CNNs**](https://arxiv.org/abs/1601.02129) - Zheng Shou et al., `CVPR 2016`. [[code]](<https://github.com/zhengshou/scnn/>)
+- <span id = "2164">[[PSDF]](#1164)</span> [**Temporal Action Localization with Pyramid of Score Distribution Features**](https://ieeexplore.ieee.org/abstract/document/7780706) - Jun Yuan et al., `CVPR 2016`.
+- <span id = "2163">[[FG]](#1163)</span>  [**End-to-end Learning of Action Detection from Frame Glimpses in Videos**](https://arxiv.org/abs/1511.06984) - Serena Yeung et al., `CVPR 2016`.
+- <span id = "2162">[[SLM]](#1162)</span> [**Temporal Action Detection Using a Statistical Language Model**](https://ieeexplore.ieee.org/document/7780710) - Alexander Richard et al., `CVPR 2016`.
+- <span id = "2161">[[DAPs]](#1161)</span> [**DAPs: Deep Action Proposals for Action Understanding**](https://link.springer.com/chapter/10.1007%2F978-3-319-46487-9_47) - Victor Escorcia et al., `ECCV 2016`.
 
 ## <span id = "tal-data"> Dataset </span>
 
@@ -138,32 +138,35 @@ A curated list of temporal action localization/detection and related area (e.g. 
 
 ### <span id = "wstal-2020"> 2020 </span>
 
-- <span id = "4205">[[RPN]](#3205)</span> [**Relational Prototypical Network for Weakly Supervised Temporal Action Localization**](https://aaai.org/Papers/AAAI/2020GB/AAAI-HuangL.1235.pdf) - Linjiang Huang et al, `AAAI 2020`.
-- <span id = "4204">[[BaSNet]](#3204)</span> [**Background Suppression Network for Weakly-supervised Temporal Action Localization**](https://arxiv.org/abs/1911.09963) - Pilhyeon Lee et al, `AAAI 2020`.
-- <span id = "4203">[[DML]](#3203)</span> [**Weakly Supervised Temporal Action Localization Using Deep Metric Learning**](https://arxiv.org/abs/2001.07793) - Ashraful Islam et al, `WACV 2020`.
-- <span id = "4202">[[MCASL]](#3202)</span> [**Action Graphs: Weakly-supervised Action Localization with Graph Convolution Networks**](https://arxiv.org/abs/2002.01449) - Maheen Rashid et al, `WACV 2020`.
-- <span id = "4201">[[WSGN]](#3201)</span> [**Weakly Supervised Gaussian Networks for Action Detection**](https://arxiv.org/abs/1904.07774) - Basura Fernando et al, `WACV 2020`.
+- <span id = "4206">[[UncertaintyBM]](#3206)</span>span> [**Background Modeling via Uncertainty Estimation
+for Weakly-supervised Action Localization**](https://arxiv.org/pdf/2006.07006.pdf) [[code]](https://github.com/Pilhyeon/Background-Modeling-via-Uncertainty-Estimation) - Pilhyeon Lee et al., Arxiv2020
+
+- <span id = "4205">[[RPN]](#3205)</span> [**Relational Prototypical Network for Weakly Supervised Temporal Action Localization**](https://aaai.org/Papers/AAAI/2020GB/AAAI-HuangL.1235.pdf) - Linjiang Huang et al., `AAAI 2020`.
+- <span id = "4204">[[BaSNet]](#3204)</span> [**Background Suppression Network for Weakly-supervised Temporal Action Localization**](https://arxiv.org/abs/1911.09963) - Pilhyeon Lee et al., `AAAI 2020`.
+- <span id = "4203">[[DML]](#3203)</span> [**Weakly Supervised Temporal Action Localization Using Deep Metric Learning**](https://arxiv.org/abs/2001.07793) [[code]](<https://github.com/asrafulashiq/wsad.git>) - Ashraful Islam et al., `WACV 2020`.
+- <span id = "4202">[[MCASL]](#3202)</span> [**Action Graphs: Weakly-supervised Action Localization with Graph Convolution Networks**](https://arxiv.org/abs/2002.01449) [[code]](https://github.com/menorashid/action_graphs.git) - Maheen Rashid et al., `WACV 2020`.
+- <span id = "4201">[[WSGN]](#3201)</span> [**Weakly Supervised Gaussian Networks for Action Detection**](https://arxiv.org/abs/1904.07774) - Basura Fernando et al., `WACV 2020`.
 
 ### <span id = "wstal-2019"> 2019 </span>
 
-- <span id = "4196">[[IWO-Net]](#3196)</span> [**Breaking Winner-Takes-All: Iterative-Winners-Out Networks for Weakly Supervised Temporal Action Localization**](https://ieeexplore.ieee.org/document/8737877) - Runhao Zeng et al, `TIP 2019`.
-- <span id = "4195">[[BM]](#3195)</span> [**Weakly-supervised Action Localization with Background Modeling**](http://openaccess.thecvf.com/content_ICCV_2019/papers/Nguyen_Weakly-Supervised_Action_Localization_With_Background_Modeling_ICCV_2019_paper.pdf) - Phuc Xuan Nguyen et al, `ICCV 2019`.
-- <span id = "4194">[[TSM]](#3194)</span> [**Temporal Structure Mining for Weakly Supervised Action Detection**](http://openaccess.thecvf.com/content_ICCV_2019/papers/Yu_Temporal_Structure_Mining_for_Weakly_Supervised_Action_Detection_ICCV_2019_paper.pdf) - Tan Yu et al, `ICCV 2019`.
-- <span id = "4193">[[CleanNet]](#3193)</span> [**Weakly Supervised Temporal Action Localization through Contrast based Evaluation Networks**](https://arxiv.org/abs/1811.07460) - Ziyi Liu et al, `ICCV 2019`.
-- <span id = "4192">[[CMCS]](#3192)</span> [**Completeness Modeling and Context Separation for Weakly Supervised Temporal Action Localization**](http://openaccess.thecvf.com/content_CVPR_2019/html/Liu_Completeness_Modeling_and_Context_Separation_for_Weakly_Supervised_Temporal_Action_CVPR_2019_paper.html) - Daochang Liu et al, `CVPR 2019`.
-- <span id = "4191">[[STAR]](#3191)</span> [**Segregated Temporal Assembly Recurrent Networks for Weakly Supervised Multiple Action Detection**](https://arxiv.org/abs/1811.07460) - Yunlu Xu et al, `AAAI 2019`.
+- <span id = "4196">[[IWO-Net]](#3196)</span> [**Breaking Winner-Takes-All: Iterative-Winners-Out Networks for Weakly Supervised Temporal Action Localization**](https://ieeexplore.ieee.org/document/8737877) - Runhao Zeng et al., `TIP 2019`.
+- <span id = "4195">[[BM]](#3195)</span> [**Weakly-supervised Action Localization with Background Modeling**](http://openaccess.thecvf.com/content_ICCV_2019/papers/Nguyen_Weakly-Supervised_Action_Localization_With_Background_Modeling_ICCV_2019_paper.pdf) - Phuc Xuan Nguyen et al., `ICCV 2019`.
+- <span id = "4194">[[TSM]](#3194)</span> [**Temporal Structure Mining for Weakly Supervised Action Detection**](http://openaccess.thecvf.com/content_ICCV_2019/papers/Yu_Temporal_Structure_Mining_for_Weakly_Supervised_Action_Detection_ICCV_2019_paper.pdf) - Tan Yu et al., `ICCV 2019`.
+- <span id = "4193">[[CleanNet]](#3193)</span> [**Weakly Supervised Temporal Action Localization through Contrast based Evaluation Networks**](https://arxiv.org/abs/1811.07460) - Ziyi Liu et al., `ICCV 2019`.
+- <span id = "4192">[[CMCS]](#3192)</span> [**Completeness Modeling and Context Separation for Weakly Supervised Temporal Action Localization**](http://openaccess.thecvf.com/content_CVPR_2019/html/Liu_Completeness_Modeling_and_Context_Separation_for_Weakly_Supervised_Temporal_Action_CVPR_2019_paper.html)[[code]](https://github.com/Finspire13/CMCS-Temporal-Action-Localization) - Daochang Liu et al., `CVPR 2019`.
+- <span id = "4191">[[STAR]](#3191)</span> [**Segregated Temporal Assembly Recurrent Networks for Weakly Supervised Multiple Action Detection**](https://arxiv.org/abs/1811.07460) - Yunlu Xu et al., `AAAI 2019`.
 
 ### <span id = "wstal-2018"> 2018 </span>
 
-- <span id = "4184">[[W-TALC]](#3184)</span> [**W-TALC: Weakly-supervised Temporal Activity Localization and Classification**](https://arxiv.org/abs/1807.10418) - Sujoy Paul et al, `ECCV 2018`. [[code]](<https://github.com/sujoyp/wtalc-pytorch>)
-- <span id = "4183">[[AutoLoc]](#3183)</span> [**AutoLoc: Weakly-supervised Temporal Action Localization in Untrimmed Videos**](https://arxiv.org/abs/1807.08333) - Zheng Shou et al, `ECCV 2018`. [[code]](<https://github.com/zhengshou/AutoLoc>)
-- <span id = "4182">[[STPN]](#3182)</span> [**Weakly Supervised Action Localization by Sparse Temporal Pooling Network**](https://arxiv.org/abs/1712.05080) - Phuc Nguyen et al, `CVPR 2018`.
-- <span id = "4181">[[One-Shot]](#3181)</span> [**One-Shot Action Localization by Learning Sequence Matching Network**](https://ieeexplore.ieee.org/document/8578255) - Hongtao Yang et al, `CVPR 2018`.
+- <span id = "4184">[[W-TALC]](#3184)</span> [**W-TALC: Weakly-supervised Temporal Activity Localization and Classification**](https://arxiv.org/abs/1807.10418) - Sujoy Paul et al., `ECCV 2018`. [[code]](<https://github.com/sujoyp/wtalc-pytorch>)
+- <span id = "4183">[[AutoLoc]](#3183)</span> [**AutoLoc: Weakly-supervised Temporal Action Localization in Untrimmed Videos**](https://arxiv.org/abs/1807.08333) - Zheng Shou et al., `ECCV 2018`. [[code]](<https://github.com/zhengshou/AutoLoc>)
+- <span id = "4182">[[STPN]](#3182)</span> [**Weakly Supervised Action Localization by Sparse Temporal Pooling Network**](https://arxiv.org/abs/1712.05080) [[code1]](<https://github.com/jacobswan1/Weakly-Supervised-Action-Localization-by-Sparse-Temporal-Pooling-Network>) [[code2]](<https://github.com/bellos1203/STPN>) - Phuc Nguyen et al., `CVPR 2018`.
+- <span id = "4181">[[One-Shot]](#3181)</span> [**One-Shot Action Localization by Learning Sequence Matching Network**](https://ieeexplore.ieee.org/document/8578255) - Hongtao Yang et al., `CVPR 2018`.
 
 ### <span id = "wstal-2017"> 2017 </span>
 
-- <span id = "4172">[[UNet]](#3172)</span> [**UntrimmedNets for Weakly Supervised Action Recognition and Detection**](https://arxiv.org/abs/1703.03329) - Limin Wang et al, `CVPR 2017`. [[code]](<https://github.com/wanglimin/UntrimmedNet>)
-- <span id = "4171">[[H&S]](#3171)</span> [**Hide-and-Seek: Forcing a Network to be Meticulous for Weakly-supervised Object and Action Localization**](https://arxiv.org/abs/1704.04232) - Krishna Kumar Singh et al, `CVPR 2017`.
+- <span id = "4172">[[UNet]](#3172)</span> [**UntrimmedNets for Weakly Supervised Action Recognition and Detection**](https://arxiv.org/abs/1703.03329) - Limin Wang et al., `CVPR 2017`. [[code]](<https://github.com/wanglimin/UntrimmedNet>)
+- <span id = "4171">[[H&S]](#3171)</span> [**Hide-and-Seek: Forcing a Network to be Meticulous for Weakly-supervised Object and Action Localization**](https://arxiv.org/abs/1704.04232) - Krishna Kumar Singh et al., `CVPR 2017`.
 
 ## <span id = "wstal-data"> Dataset </span>
 
@@ -174,25 +177,27 @@ A curated list of temporal action localization/detection and related area (e.g. 
 
 #### <span id = "wstal-thumos14"> THUMOS14 </span>
 
-|                     Method                     |  Conference   |   IoU@0.1   |   IoU@0.2   |   IoU@0.3   |   IoU@0.4   |   IoU@0.5   |   IoU@0.6   |   IoU@0.7   |
+|                     Method                     |  Conference   |   Feature   |  IoU@0.1   |   IoU@0.2   |   IoU@0.3   |   IoU@0.4   |   IoU@0.5   |   IoU@0.6   |   IoU@0.7   |
 | :--------------------------------------------: | :-----------: | :---------: | :---------: | :---------: | :---------: | :---------: | :---------: | :---------: |
-| <span id = "3171">[H&S](#4171)</span>          |   ICCV-2017   |    36.44    |    27.84    |    19.49    |    12.66    |    6.84     |      -      |      -      |
-| <span id = "3172">[UNet](#4172)</span>         |   CVPR-2017   |    44.4     |    37.7     |    28.2     |    21.1     |    13.7     |      -      |      -      |
-| <span id = "3181">[One-Shot](#4181)</span>     |   CVPR-2018   |      -      |      -      |      -      |      -      |    14.7     |      -      |      -      |
-| <span id = "3182">[STPN](#4182)</span>         |   CVPR-2018   |    52.0     |    44.7     |    35.5     |    25.8     |    16.9     |     9.9     |     4.3     |
-| <span id = "3196">[IWO-Net](#4196)</span>      |   TIP-2019    |    57.6     |    48.9     |    38.9     |    29.3     |    20.5     |      -      |      -      |
-| <span id = "3201">[WSGN](#4201)</span>         |   WACV-2020   |    55.3     |    47.6     |    38.9     |    30.0     |    21.1     |      -      |      -      |
-| <span id = "3183">[AutoLoc](#4183)</span>      |   ECCV-2018   |      -      |      -      |    35.8     |    29.0     |    21.2     |    13.4     |     5.8     |
-| <span id = "3184">[W-TAL](#4184)</span>        |   ECCV-2018   |    55.2     |    49.6     |    40.1     |    31.1     |    22.8     |      -      |     7.6     |
-| <span id = "3191">[STAR](#4191)</span>         |   AAAI-2019   |    68.8     |    60.0     |    48.7     |    34.7     |    23.0     |      -      |      -      |
-| <span id = "3192">[CMCS](#4192)</span>         |   CVPR-2019   |    57.4     |    50.8     |    41.2     |    32.1     |    23.1     |    15.0     |     7.0     |
-| <span id = "3193">[CleanNet](#4193)</span>     |   ICCV-2019   |    68.8     |    60.0     |    37.0     |    30.9     |    23.9     |    13.9     |     7.1     |
-| <span id = "3194">[TSM](#4194)</span>          |   ICCV-2019   |      -      |      -      |    39.5     |      -      |    24.5     |      -      |     7.1     |
-| <span id = "3202">[MCASL](#4202)</span>        |   WACV-2020   |    63.7     |    56.9     |    47.3     |    36.4     |    26.1     |      -      |      -      |
-| <span id = "3195">[BM](#4195)</span>           |   ICCV-2019   |    60.4     |    56.0     |    46.6     |    37.5     |    26.8     |    17.6     |     9.0     |
-| <span id = "3204">[BaSNet](#4204)</span>       |   AAAI-2020   |    58.2     |    52.3     |    44.6     |    36.0     |    27.0     |    18.6     |    10.4     |
-| <span id = "3205">[RPN](#4205)</span>          |   AAAI-2020   |    62.3     |    57.0     |    48.2     |    37.2     |    27.9     |    16.7     |     8.1     |
-| <span id = "3203">[DML](#4203)</span>          |   AAAI-2020   |    62.3     |      -      |    46.8     |      -      |    29.6     |      -      |     9.7     |
+| <span id = "3171">[H&S](#4171)</span>          |   ICCV-2017   |      -      |    36.44    |    27.84    |    19.49    |    12.66    |    6.84     |      -      |      -      |
+| <span id = "3172">[UNet](#4172)</span>         |   CVPR-2017   |      -      |    44.4     |    37.7     |    28.2     |    21.1     |    13.7     |      -      |      -      |
+| <span id = "3181">[One-Shot](#4181)</span>     |   CVPR-2018   |      -      |      -      |      -      |      -      |      -      |    14.7     |      -      |      -      |
+| <span id = "3182">[STPN](#4182)</span>         |   CVPR-2018   |     UNT     |    52.0     |    44.7     |    35.5     |    25.8     |    16.9     |     9.9     |     4.3     |
+| <span id = '3182'>[STPN](#4182)</span>span>    |   CVPR-2018   |     UNT     |    52.1     |    44.2     |    34.7     |   26.1     |    17.7     |    10.1     |     4.9   |
+| <span id = "3196">[IWO-Net](#4196)</span>      |   TIP-2019    |      -      |    57.6     |    48.9     |    38.9     |    29.3     |    20.5     |      -      |      -      |
+| <span id = "3201">[WSGN](#4201)</span>         |   WACV-2020   |      -      |    55.3     |    47.6     |    38.9     |    30.0     |    21.1     |      -      |      -      |
+| <span id = "3183">[AutoLoc](#4183)</span>      |   ECCV-2018   |     UNT     |      -      |      -      |    35.8     |    29.0     |    21.2     |    13.4     |     5.8     |
+| <span id = "3184">[W-TAL](#4184)</span>        |   ECCV-2018   |     I3D     |    55.2     |    49.6     |    40.1     |    31.1     |    22.8     |      -      |     7.6     |
+| <span id = "3191">[STAR](#4191)</span>         |   AAAI-2019   |      -      |    68.8     |    60.0     |    48.7     |    34.7     |    23.0     |      -      |      -      |
+| <span id = "3192">[CMCS](#4192)</span>         |   CVPR-2019   |     I3D     |    57.4     |    50.8     |    41.2     |    32.1     |    23.1     |    15.0     |     7.0     |
+| <span id = "3193">[CleanNet](#4193)</span>     |   ICCV-2019   |     UNT     |    68.8     |    60.0     |    37.0     |    30.9     |    23.9     |    13.9     |     7.1     |
+| <span id = "3194">[TSM](#4194)</span>          |   ICCV-2019   |     I3D     |      -      |      -      |    39.5     |      -      |    24.5     |      -      |     7.1     |
+| <span id = "3202">[MCASL](#4202)</span>        |   WACV-2020   |      -      |    63.7     |    56.9     |    47.3     |    36.4     |    26.1     |      -      |      -      |
+| <span id = "3195">[BM](#4195)</span>           |   ICCV-2019   |     I3D     |    60.4     |    56.0     |    46.6     |    37.5     |    26.8     |    17.6     |     9.0     |
+| <span id = "3204">[BaSNet](#4204)</span>       |   AAAI-2020   |     UNT     |    58.2     |    52.3     |    44.6     |    36.0     |    27.0     |    18.6     |    10.4     |
+| <span id = "3205">[RPN](#4205)</span>          |   AAAI-2020   |     I3D     |    62.3     |    57.0     |    48.2     |    37.2     |    27.9     |    16.7     |     8.1     |
+| <span id = "3203">[DML](#4203)</span>          |   AAAI-2020   |      -      |    62.3     |      -      |    46.8     |      -  |    29.6     |      -      |     9.7     |
+| <span id = "3206">[UncertaintyBM](#4206)</span>span> | Arxiv-2020|   I3D     |      -      |    46.9     |    39.2     |    30.7     |    20.8     |    12.5     |
 
 #### <span id = "wstal-activitynet13"> ActivityNet v1.3 </span>
 
