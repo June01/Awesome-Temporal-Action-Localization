@@ -249,7 +249,7 @@ for Weakly-supervised Action Localization**](https://arxiv.org/pdf/2006.07006.pd
 
 ### <span id = "fsl-2018"> 2018 </span>
 - <span id = "4181">[[One-Shot]](#5000)</span> [**One-Shot Action Localization by Learning Sequence Matching Network**](https://ieeexplore.ieee.org/document/8578255) - Hongtao Yang et al., `CVPR 2018`.
-- <span id = "4183">[[Sim R-C3D]](#5001)</span> [**Similarity R-C3D for Few-shot Temporal Activity Detection**](https://arxiv.org/abs/1807.08333) - Huijuan Xu et al., `Arxiv 2018`.
+- <span id = "4183">[[Sim R-C3D]](#5001)</span> [**Similarity R-C3D for Few-shot Temporal Activity Detection**](https://arxiv.org/abs/1812.10000) - Huijuan Xu et al., `Arxiv 2018`.
 
 
 
