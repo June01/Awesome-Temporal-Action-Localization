@@ -15,6 +15,9 @@ This repo is an extension of [repo](https://github.com/Alvin-Zeng/Awesome-Tempor
     - [Dataset](#wstal-data)
     - [Benchmark Results](#wstal-result)
         - [THUMOS14](#wstal-thumos14) - [ActivityNet v1.3](#wstal-activitynet13) - [ActivityNet v1.2](#wstal-activitynet12)
+- [Few-shot Learning](#fsl)
+    - [paper](#fsl-paper)
+        - [2018](#fsl-paper)
 
 ---
 
@@ -139,8 +142,8 @@ This repo is an extension of [repo](https://github.com/Alvin-Zeng/Awesome-Tempor
 
 ### <span id = "wstal-2020"> 2020 </span>
 
-- <span id = "4207">[[DGAM]](#3207)</span>span> [**Weakly-Supervised Action Localization by Generative Attention Modeling**](https://arxiv.org/pdf/2003.12424v2.pdf) - Baifeng Shi et al., `CVPR2020` [[code]](https://github.com/bfshi/DGAM-Weakly-Supervised-Action-Localization)
-- <span id = "4206">[[UncertaintyBM]](#3206)</span>span> [**Background Modeling via Uncertainty Estimation
+- <span id = "4207">[[DGAM]](#3207)</span> [**Weakly-Supervised Action Localization by Generative Attention Modeling**](https://arxiv.org/pdf/2003.12424v2.pdf) - Baifeng Shi et al., `CVPR2020` [[code]](https://github.com/bfshi/DGAM-Weakly-Supervised-Action-Localization)
+- <span id = "4206">[[UncertaintyBM]](#3206)</span> [**Background Modeling via Uncertainty Estimation
 for Weakly-supervised Action Localization**](https://arxiv.org/pdf/2006.07006.pdf) - Pilhyeon Lee et al., `Arxiv2020` [[code]](https://github.com/Pilhyeon/Background-Modeling-via-Uncertainty-Estimation)
 - <span id = "4205">[[RPN]](#3205)</span> [**Relational Prototypical Network for Weakly Supervised Temporal Action Localization**](https://aaai.org/Papers/AAAI/2020GB/AAAI-HuangL.1235.pdf) - Linjiang Huang et al., `AAAI 2020`.
 - <span id = "4204">[[BaSNet]](#3204)</span> [**Background Suppression Network for Weakly-supervised Temporal Action Localization**](https://arxiv.org/abs/1911.09963) - Pilhyeon Lee et al., `AAAI 2020`.
@@ -233,3 +236,45 @@ for Weakly-supervised Action Localization**](https://arxiv.org/pdf/2006.07006.pd
 | [3C-Net](#3197)       |   ICCV-2019   |    37.2     |     23.7     |     9.2      |    21.7     |
 | [UncertaintyBM](#4206)|  Arxiv-2020   |    40.3     |     25.1     |     5.9      |    25.4     |
 | [DGAM](#4207)         |   CVPR-2020   |    41.0     |     23.5     |     5.3      |    24.4     |
+
+
+
+
+---
+
+## <span id = "fsl"> **Few-shot Learning** </span>
+
+## <span id = "fsl-paper"> Paper </span>
+
+
+### <span id = "fsl-2018"> 2018 </span>
+- <span id = "4181">[[One-Shot]](#5000)</span> [**One-Shot Action Localization by Learning Sequence Matching Network**](https://ieeexplore.ieee.org/document/8578255) - Hongtao Yang et al., `CVPR 2018`.
+- <span id = "4183">[[Sim R-C3D]](#5001)</span> [**Similarity R-C3D for Few-shot Temporal Activity Detection**](https://arxiv.org/abs/1807.08333) - Huijuan Xu et al., `Arxiv 2018`.
+
+
+
+## <span id = "fsl-result"> Benchmark Results </span>
+
+#### <span id = "fsl-thumos14"> THUMOS14 </span>
+
+|                     Method                     |  Conference   |   Feature   |   IoU@0.1   |   IoU@0.2   |    IoU@0.3    |   IoU@0.4   |   IoU@0.5   |   IoU@0.6   |   IoU@0.7   |
+| :--------------------------------------------: | :-----------: | :---------: | :---------: | :---------: | :---------: | :---------: | :---------: | :---------: | :---------: |
+| <span id = "5000">[One-Shot](#5000)</span>     |   CVPR-2018   |      -      |      -      |      -      |      -      |      -      |    14.7     |      -      |      -      |
+| <span id = "5001">[Sim R-C3D](#5001)</span>     |   Arxiv-2018   |      -      |      -      |      -      |      -      |      -      |    28.1     |      -      |      -      |
+
+
+#### <span id = "fsl-activitynet13"> ActivityNet v1.3 </span>
+
+|        Method         |  Conference   |   IoU@0.5   |   IoU@0.75   |   IoU@0.95   |   IoU@Avg   |
+| :-------------------: | :-----------: | :---------: | :----------: | :----------: | :---------: |
+| [Sim R-C3D](#5000)         |   Arxiv-2018   |     51.6     |      -    |     -      |     34.6    |
+
+
+#### <span id = "fsl-activitynet12"> ActivityNet v1.2 </span>
+
+|        Method         |  Conference   |   IoU@0.5   |   IoU@0.75   |   IoU@0.95   |   IoU@Avg   |
+| :-------------------: | :-----------: | :---------: | :----------: | :----------: | :---------: |
+| [One-shot](#5000)         |   CVPR-2018   |     23.1     |      -    |     -      |      10.0   |
+| [Sim R-C3D](#5000)         |   Arxiv-2018   |     45.8     |      -    |     -      |      28.2   |
+
+
